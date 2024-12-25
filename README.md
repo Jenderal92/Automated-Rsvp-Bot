@@ -1,5 +1,8 @@
 # Automated RSVP Bot
 
+![automated-rsvp-bot Jenderal92](https://github.com/user-attachments/assets/091d78ad-1d75-45f5-9f92-c363af87f0f7)
+
+
 **Automated RSVP Bot** is a Python-based tool that uses the **Google Calendar API** to automate RSVP responses for your calendar events. It scans your upcoming events and sends RSVP responses (Accept, Tentative, or Decline) based on your preferences or manual input.
 
 ## Features
